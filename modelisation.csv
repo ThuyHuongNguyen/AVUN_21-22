@@ -1,5 +1,5 @@
-﻿physique;acteurs;concept label;concept uri;;;;;;
-site web;organisateur;séminaire;https://sparontologies.github.io/fabio/current/fabio.html;;;;;;
+﻿physiques;acteurs;concept label;concept uri;sujet;predicat;;;;
+site web;organisateur;séminaire;https://sparontologies.github.io/fabio/current/fabio.html;organisateurs;;;;;
 application mobile;etudiants handicaps;;;;;;;;
 clavier;publics;;;;;;;;
 souris;entreprise;;;;;;;;
