@@ -1,5 +1,20 @@
 physique,acteurs,concept label,concept uri,sujet,predicat,objet
-site web,organisateur,séminaire,https://sparontologies.github.io/fabio/current/fabio.html,,,
-application mobile,etudiants handicaps,,,,,
-clavier,publics,,,,,
-souris,,,,,,
+site web,organisateur,séminaire,https://sparontologies.github.io/fabio/current/fabio.html,a3,c5,p10
+application mobile,étudiant handicap cognitif,pédagogique,http://ns.inria.fr/ludo/v1/docs/gamemodel.html#hasPedagogicEvent,a6,c9,p9
+clavier,publics,formation,https://cidoc-crm.org/html/cidoc_crm_v7.1.1.html#E66,a3,c7,p3
+souris,rgaa,apprentissage,,a10,c4,p18
+pc associé à une plage braille ,étudiant malvoyants aveugles,enseignement,https://sparql.cwrc.ca/ontologies/cwrc#EducationalOrganization,a11,c3,p13
+tablette,elèves non voyant,étude learn,http://ns.inria.fr/ludo/v1/docs/gamemodel.html#Learn,a12,c3,p10
+­pc associé à un lecteur d'écran ,étudiant handicap visuel,scolarisation,https://sparql.cwrc.ca/ontologies/cwrc#PrepSchool,a9,c9,p3
+bloc­note braille ,assistance,utilisation,http://vocab.getty.edu/ontology#aat2322_use,,,
+support numérique,professeurs,usage,http://ontologies.makolab.com/uco/ns.html#UsageType,,,
+outils enseignement,lycée géneral,,,,,
+ent,lycée professionnel,,,,,
+éduscol,,,,,,
+accessibilité numérique,,,,,,
+"outils
+informatiques",,,,,,
+technologie,,,,,,
+"tableaux
+interactif",,,,,,
+vidéo projecteur,,,,,,
