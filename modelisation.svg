@@ -295,7 +295,7 @@
          transform="matrix(0.98288597,0,0,1.017412,-2.8724339,3.7769383)"><tspan
            x="59.899651"
            y="25.686356"
-           id="tspan49361">support numérique</tspan></text>
+           id="tspan56541">support numérique</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.10505px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
@@ -566,7 +566,8 @@
          x="125.85221"
          y="88.479507"
          id="text155058"
-         transform="scale(0.98288598,1.017412)"><tspan
+         transform="scale(0.98288598,1.017412)"
+         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')"><tspan
            sodipodi:role="line"
            id="tspan155056"
            style="font-size:3.10505px;stroke-width:0.232878"
@@ -578,7 +579,8 @@
          cx="122.30097"
          cy="107.6994"
          rx="19.71887"
-         ry="7.3931561" />
+         ry="7.3931561"
+         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')" />
       <g
          id="g22263"
          transform="translate(-2.8724339,0.24108114)">
