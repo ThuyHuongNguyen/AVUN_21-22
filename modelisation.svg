@@ -295,7 +295,7 @@
          transform="matrix(0.98288597,0,0,1.017412,-2.8724339,3.7769383)"><tspan
            x="59.899651"
            y="25.686356"
-           id="tspan188">support numérique</tspan></text>
+           id="tspan281">support numérique</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.10505px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
@@ -633,15 +633,15 @@
          inkscape:original-d="m 191.08412,69.126416 c 2.3e-4,2.37e-4 2.3e-4,2.37e-4 0,0 z" />
       <g
          id="g95"
-         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')">
+         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')"
+         onmouseenter="console.log('entre dans Enseignement')">
         <ellipse
            style="opacity:0.857143;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.973469;stroke-linecap:square;stroke-dasharray:0.0973469, 0.0973469;stroke-dashoffset:0.292039;stroke-opacity:1"
            id="ellipse162376"
            cx="122.30097"
            cy="107.6994"
            rx="19.71887"
-           ry="7.3931561"
-           onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')" />
+           ry="7.3931561" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:3.10504574px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
