@@ -295,7 +295,7 @@
          transform="matrix(0.98288597,0,0,1.017412,-2.8724339,3.7769383)"><tspan
            x="59.899651"
            y="25.686356"
-           id="tspan281">support numérique</tspan></text>
+           id="tspan378">support numérique</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.10505px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
@@ -414,13 +414,17 @@
          rx="19.717983"
          ry="7.3930006"
          onpaste="https://disic.github.io/guide-decideur/1-accessibilite_numerique.html" />
-      <ellipse
-         style="opacity:0.857143;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.10331;stroke-linecap:square;stroke-dasharray:0.110331, 0.110331;stroke-dashoffset:0.330992;stroke-opacity:1"
-         id="path93148"
-         cx="76.807823"
-         cy="96.609711"
-         rx="23.535196"
-         ry="15.527156" />
+      <g
+         id="g284"
+         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')">
+        <ellipse
+           style="opacity:0.857143;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.10331;stroke-linecap:square;stroke-dasharray:0.110331, 0.110331;stroke-dashoffset:0.330992;stroke-opacity:1"
+           id="path93148"
+           cx="76.807823"
+           cy="96.609711"
+           rx="23.535196"
+           ry="15.527156" />
+      </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.10505px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
