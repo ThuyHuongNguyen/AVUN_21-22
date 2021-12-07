@@ -25,8 +25,8 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:zoom="1.0424112"
-     inkscape:cx="355.42594"
-     inkscape:cy="271.48594"
+     inkscape:cx="355.42596"
+     inkscape:cy="271.48595"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -295,7 +295,7 @@
          transform="matrix(0.98288597,0,0,1.017412,-2.8724339,3.7769383)"><tspan
            x="59.899651"
            y="25.686356"
-           id="tspan56541">support numérique</tspan></text>
+           id="tspan188">support numérique</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.10505px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
@@ -573,14 +573,6 @@
            style="font-size:3.10505px;stroke-width:0.232878"
            x="125.85221"
            y="88.479507">Accès</tspan></text>
-      <ellipse
-         style="opacity:0.857143;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.973469;stroke-linecap:square;stroke-dasharray:0.0973469, 0.0973469;stroke-dashoffset:0.292039;stroke-opacity:1"
-         id="ellipse162376"
-         cx="122.30097"
-         cy="107.6994"
-         rx="19.71887"
-         ry="7.3931561"
-         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')" />
       <g
          id="g22263"
          transform="translate(-2.8724339,0.24108114)">
@@ -639,18 +631,30 @@
          id="path228132"
          inkscape:path-effect="#path-effect228134"
          inkscape:original-d="m 191.08412,69.126416 c 2.3e-4,2.37e-4 2.3e-4,2.37e-4 0,0 z" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.10504574px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
-         x="116.38196"
-         y="104.75648"
-         id="text36811"
-         transform="scale(0.98288597,1.017412)"><tspan
-           sodipodi:role="line"
-           id="tspan36809"
-           style="stroke-width:0.232878;font-size:3.10504574px"
+      <g
+         id="g95"
+         onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')">
+        <ellipse
+           style="opacity:0.857143;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.973469;stroke-linecap:square;stroke-dasharray:0.0973469, 0.0973469;stroke-dashoffset:0.292039;stroke-opacity:1"
+           id="ellipse162376"
+           cx="122.30097"
+           cy="107.6994"
+           rx="19.71887"
+           ry="7.3931561"
+           onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.10504574px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232878"
            x="116.38196"
-           y="104.75648">Enseignement</tspan></text>
+           y="104.75648"
+           id="text36811"
+           transform="scale(0.98288597,1.017412)"><tspan
+             sodipodi:role="line"
+             id="tspan36809"
+             style="stroke-width:0.232878;font-size:3.10504574px"
+             x="116.38196"
+             y="104.75648">Enseignement</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
